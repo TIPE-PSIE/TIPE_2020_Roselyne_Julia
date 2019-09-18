@@ -21,3 +21,17 @@ https://www.overleaf.com/7281214553nqdgbkypjjkb
 - Energie : rentabilité entre le fait de tourner le moteur et l'enrgie parvenant du vent
 - Cycle energétique
 
+## Repartition présentation
+- intro à partir des éoliennes étudiées (les 2)
+- echelle (R)
+- réalisation des maquettes (les 2)
+- théorie : faire la SI (les 2)
+- pbl avec poids (les 2)
+- protocole (les 2)
+- programme python (J)
+- résultats (les 2)
+- comparaison + conclusion (les 2)
+
+- l'amélioration d'une éolienne chacune vis à vis de la stabilité (windfloat J et eolink R)
+
+
