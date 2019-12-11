@@ -9,12 +9,11 @@ https://www.overleaf.com/7281214553nqdgbkypjjkb
 - maquettes
 - expériences avec les vagues et le vent
 - courbes avec les vagues et le vent
-- protocoles maquettes / expériences / courbes
+- protocoles maquettes / expériences / courbes (Nyquiest Shannon)
 - actions mécanique sur les éoliennes (poids et la poussé d'archimède)sans vague, ni vent
 -
 
 ## A faire / A modifier
-- Expliciter l'obtention des courbes (échantillonage Nyquiest Shannon)
 - Etude précise des éoliennes : système de régulation d'eau dans les piliers (à voir si temps) / système qui tourne la tête de l'éolienne (à voir si temps) / Symétrie de l'éolink : pales sont au milieu / ancrages / dimensions / profondeur
 etude statique (masse à ajouter pour l'équilibre) (répartition des masse + centre d'inertie )
 - modifier MCOT par rapport à ce qu'on étudie / bibliographie / mots clés et positionnement / pbl / Objectif 
