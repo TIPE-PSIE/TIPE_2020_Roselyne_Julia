@@ -19,7 +19,10 @@
 - Creation du vent manuellement : petit et fort
 - Filmer le bac comme précédemment pdt 8sec avec le vent
 - Utilisation du logiciel tracker
-- Pointage de l'éolienne 
+- Pointage de l'éolienne en respectant la condition de Nyquiest Shannon : fe > 2fmax. 
+Or fe = 30Hz et fmax = 2.5Hz donc on a bien fe >> 2*(2.5)Hz.
+On obtient fe avec Tracker : le logiciel nous fait prendre 1 point toutes les 0.33sec donc fe= 1/0.033 = 30Hz.
+On obtient fmax avec nos vidéos : en 8sec il y a eu environ 19 périodes de vagues donc fmax = 2.5 Hz
 
 ## Protocole courbes
 
