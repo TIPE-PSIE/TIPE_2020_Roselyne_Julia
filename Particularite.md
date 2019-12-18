@@ -30,7 +30,7 @@
 
 # Matériaux
 
-### Eolink :
+### Eolink : 2100 tonnes d'acier
 ### Floatgen : Coque en béton
 ### Windfloat :
 
