@@ -42,7 +42,7 @@
 
 # Masse de l'éolienne 
 
-### Eolink : 700 tonnes
-### Floatgen :
-### Windfloat :
+### Eolink : 2100 tonnes
+### Floatgen : 6000 tonnes 
+### Windfloat : 1300 tonnes
 
