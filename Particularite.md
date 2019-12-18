@@ -19,7 +19,7 @@
 # Dimension
 
 ### Eolink :
-### Floatgen : Flotteur 36mx36m / Hauteur 60m / Pales 40m
+### Floatgen : Flotteur 36m x 36m x 9,5m / Hauteur d'eau 7m / Hauteur pilier 60m / Pales 40m
 ### Windfloat :
 
 # Particularités de forme
