@@ -1,7 +1,7 @@
 # Ancrages
 
 ### Eolink :
-### Floatgen :
+### Floatgen : Amarrage en nilon (non sujet à la corosion)
 ### Windfloat :
 
 # Profondeur
