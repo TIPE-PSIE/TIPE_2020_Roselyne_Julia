@@ -11,10 +11,10 @@ https://www.overleaf.com/7281214553nqdgbkypjjkb
 - courbes avec les vagues et le vent
 - protocoles maquettes / expériences / courbes (Nyquiest Shannon)
 - actions mécanique sur les éoliennes (poids et la poussé d'archimède)sans vague, ni vent
--
+- Particularité des éoliennes : dimensions, profondeur, matériaux, masse
 
 ## A faire / A modifier
-- Etude précise des éoliennes : système de régulation d'eau dans les piliers (à voir si temps) / système qui tourne la tête de l'éolienne (à voir si temps) / Symétrie de l'éolink : pales sont au milieu / ancrages / dimensions / profondeur
+- Etude précise des éoliennes : système de régulation d'eau dans les piliers (à voir si temps) / système qui tourne la tête de l'éolienne (à voir si temps) / Symétrie de l'éolink : pales sont au milieu (orientation par rapport au vent) / ancrages (eolink) / au large (eolink)
 etude statique (masse à ajouter pour l'équilibre) (répartition des masse + centre d'inertie )
 - modifier MCOT par rapport à ce qu'on étudie / bibliographie / mots clés et positionnement / pbl / Objectif 
 - stabilité avec le vent (on galère mais on va y arriver)
