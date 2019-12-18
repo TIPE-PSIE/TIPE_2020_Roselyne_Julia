@@ -1,13 +1,13 @@
 # Ancrages
 
 ### Eolink :
-### Floatgen : Amarrage en nilon (non sujet à la corosion)
+### Floatgen : 3 points d'ancrage --> un sur chaque coin du coté du pilier et un en face du pilier, chacun composé de 3 enormes chaines
 ### Windfloat :
 
 # Profondeur
 
 ### Eolink :
-### Floatgen :
+### Floatgen : 33 mètres de fond sous l'éolienne
 ### Windfloat :
 
 # Dimension
