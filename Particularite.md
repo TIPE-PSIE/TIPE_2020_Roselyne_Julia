@@ -10,10 +10,16 @@
 ### Floatgen : 33 mètres de fond sous l'éolienne
 ### Windfloat :
 
+# Distance au large
+
+### Eolink :
+### Floatgen : 22km
+### Windfloat :
+
 # Dimension
 
 ### Eolink :
-### Floatgen :
+### Floatgen : Flotteur 36mx36m / Hauteur 60m / Pales 40m
 ### Windfloat :
 
 # Particularités de forme
