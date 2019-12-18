@@ -2,13 +2,13 @@
 
 ### Eolink :
 ### Floatgen : 3 points d'ancrage --> un sur chaque coin du coté du pilier et un en face du pilier, chacun composé de 2 énormes lignes semi-tendues en fibre synthétique (nilon --> n'est pas corrosif et est souple) et en chaîne 
-### Windfloat :
+### Windfloat : chaînes
 
 # Profondeur
 
 ### Eolink : max 40m
 ### Floatgen : 33m de fond sous l'éolienne
-### Windfloat :
+### Windfloat : 100m 
 
 # Distance au large
 
