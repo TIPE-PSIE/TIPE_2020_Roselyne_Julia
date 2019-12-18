@@ -46,3 +46,5 @@
 ### Floatgen : 6000 tonnes 
 ### Windfloat : 1300 tonnes
 
+En général, sur un parc éolien, les éoliennes sont distantes les unes des autres d'environ 50m.
+
