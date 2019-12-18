@@ -8,13 +8,13 @@
 
 ### Eolink : max 40m
 ### Floatgen : 33m de fond sous l'éolienne
-### Windfloat : 100m 
+### Windfloat : 50m < p < 120m 
 
 # Distance au large
 
 ### Eolink : 
 ### Floatgen : 22km
-### Windfloat :
+### Windfloat : 20km
 
 # Dimension
 
@@ -32,7 +32,7 @@
 
 ### Eolink : Acier / Béton 
 ### Floatgen : Coque en béton
-### Windfloat :
+### Windfloat : Acier / Béton
 
 # Rotation par rapport au vent ?
 
