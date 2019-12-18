@@ -6,21 +6,21 @@
 
 # Profondeur
 
-### Eolink :
-### Floatgen : 33 mètres de fond sous l'éolienne
+### Eolink : max 40m
+### Floatgen : 33m de fond sous l'éolienne
 ### Windfloat :
 
 # Distance au large
 
-### Eolink :
+### Eolink : 
 ### Floatgen : 22km
 ### Windfloat :
 
 # Dimension
 
-### Eolink : Rotor de 200m de diamètre / Nacelle à 120m de l'eau / Flotteur 66m x 58 m 
-### Floatgen : Flotteur 36m x 36m x 9,5m / Hauteur d'eau 7m / Hauteur pilier 60m / Pales 40m
-### Windfloat :
+### Eolink : Flotteur 66m x 58 m x 39m / Hauteur d'eau 20m / Nacelle de 120m / Pales 85m 
+### Floatgen : Flotteur 36m x 36m x 9,5m / Hauteur d'eau 7m / Hauteur mât 60m / Pales 40m
+### Windfloat : Flotteur 50m (3 côtés du triangle) x 32m (hauteur) / Hauteur d'eau 20m / Hauteur mât 78m / Pales 50m
 
 # Particularités de forme
 
