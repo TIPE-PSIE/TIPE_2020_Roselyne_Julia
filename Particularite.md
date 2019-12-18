@@ -1,7 +1,7 @@
 # Ancrages
 
 ### Eolink :
-### Floatgen : 3 points d'ancrage --> un sur chaque coin du coté du pilier et un en face du pilier, chacun composé de 2 énormes lignes en fibre synthétique (nilon --> n'est pas corrosif et est souple)
+### Floatgen : 3 points d'ancrage --> un sur chaque coin du coté du pilier et un en face du pilier, chacun composé de 2 énormes lignes semi-tendues en fibre synthétique (nilon --> n'est pas corrosif et est souple)
 ### Windfloat :
 
 # Profondeur
