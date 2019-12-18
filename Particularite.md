@@ -16,7 +16,7 @@
 ### Floatgen : 22km
 ### Windfloat : 20km
 
-# Dimension
+# Dimensions
 
 ### Eolink : Flotteur 66m x 58 m x 39m / Hauteur d'eau 20m / Nacelle de 120m / Pales 85m 
 ### Floatgen : Flotteur 36m x 36m x 9,5m / Hauteur d'eau 7m / Hauteur mât 60m / Pales 40m
@@ -40,7 +40,7 @@
 ### Floatgen :
 ### Windfloat :
 
-# Masse de l'éolienne 
+# Masses
 
 ### Eolink : 2100 tonnes
 ### Floatgen : 6000 tonnes 
