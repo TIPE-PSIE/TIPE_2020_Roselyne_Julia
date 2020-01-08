@@ -27,3 +27,7 @@ https://www.overleaf.com/7281214553nqdgbkypjjkb
 * Mai - Juin 2019 : Fabrication des modèles d'éoliennes
 * Septembre - Octobre 2019 : Réalisation des expériences, exploitation des résultats
 * Novembre 2019 : Interprétation des résultats et étude théorique
+
+## Liens
+
+https://ifmmediterranee.files.wordpress.com/2016/11/leolien-offshore-flottant-par-guillaume-bracq.pdf
