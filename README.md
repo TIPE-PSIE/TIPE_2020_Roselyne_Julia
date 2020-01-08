@@ -18,7 +18,7 @@ Ces éoliennes sont uniquement implantées sur les mers et océans.
 
 Positionnement : SI (Génie mécanique et Génie energétique), Physique (Mécanique)
 
-Mots-clés : Eolienne flottante, Flotteur, Stabilité, Ancrage, Expérience à échelle réduite.
+Mots-clés : Eolienne flottante, Flotteur, Stabilité, Ancrage, Expérience à échelle réduite, hydrostatique, cinématique, mécanique des fluides. 
 
 Keywords : Floating wind turbine, Float, Stability, Anchor, Experiment.  
 
