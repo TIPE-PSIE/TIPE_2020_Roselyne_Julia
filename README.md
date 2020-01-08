@@ -16,7 +16,7 @@ Ces éoliennes sont uniquement implantées sur les mers et océans.
 
 ### Positionnement thématique et mots-clés
 
-Positionnement : Hydrostatique, Cinématique, Mécanique des fluides. 
+Positionnement : SI (Génie mécanique et Génie energétique), Physique (Mécanique)
 
 Mots-clés : Eolienne flottante, Flotteur, Stabilité, Ancrage, Expérience à échelle réduite.
 
