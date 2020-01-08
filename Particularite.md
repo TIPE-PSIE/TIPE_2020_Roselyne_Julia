@@ -1,7 +1,7 @@
 # Ancrages
 
 ### Eolink : système semi-tendu et compact. Les lignes sont elastique. Installation indépendante du système d'ancrage.
-### Floatgen : 3 points d'ancrage --> un sur chaque coin du coté du pilier et un en face du pilier, chacun composé de 2 énormes lignes semi-tendues en fibre synthétique (nilon --> n'est pas corrosif et est souple) et en chaîne 
+### Floatgen : 3 points d'ancrage --> un sur chaque coin du coté du pilier et un en face du pilier, chacun composé de 2 énormes lignes semi-tendues (donc 6 lignes en tout) en fibre synthétique (nilon --> n'est pas corrosif et est souple) et en chaîne 
 ### Windfloat : chaînes
 
 # Profondeur
@@ -25,7 +25,7 @@
 # Particularités de forme
 
 ### Eolink : Base carrée avec 4 pilier se rejoignant comme une pyramide --> centre de masse plus centré + symétrie par rapport à l'axe passant par le centre du rotor. Donc plus stable car pleins de moment d'inertie s'annule. 
-### Floatgen : Base carrée avec pilier au centre d'un des cotés
+### Floatgen : Base carrée avec pilier au centre d'un des cotés. L'eau au milieu du carré permet d'amortir la houle et les oscillations de l'éolienne. 
 ### Windfloat : Base triangulaire avec pilier sur un des sommets
 
 # Matériaux
@@ -37,8 +37,8 @@
 # Rotation par rapport au vent ?
 
 ### Eolink : Alignement naturel de l'éolienne par rapport au vent --> toute la base tourne
-### Floatgen : 
-### Windfloat : 
+### Floatgen : Seul le rotor et les pales tournent par rapport au vent. 
+### Windfloat : Seul le rotor et les pales tournent par rapport au vent
 
 # Masses
 
