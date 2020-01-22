@@ -58,3 +58,7 @@ Afin d'assurer la durabilité de ces éoliennes flottantes, plus respectueuses d
 [4]: Étude expérimentale du comportement dynamique d’une éolienne offshore flottante soumise à l’action conjuguée de la houle et du vent, Adrien Courbois, 2013 : https://tel.archives-ouvertes.fr/file/index/docid/840511/filename/these_AC_finale.pdf
 
 [5]: WindFloat design for different turbine sizes, Johannes George, 2014 : https://fenix.tecnico.ulisboa.pt/downloadFile/563345090413232/Masterthesis_Johannes-George_FINAL.pdf
+
+[6]: L’eolien offshore flottant, Guillaume Bracq, 2015 : 
+https://ifmmediterranee.files.wordpress.com/2016/11/leolien-offshore-flottant-par-guillaume-bracq.pdf
+
