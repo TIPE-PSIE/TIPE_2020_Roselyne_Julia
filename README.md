@@ -33,6 +33,8 @@ Malgré les données prometteuses des éoliennes flottantes au niveau énergéti
 
 Afin d'assurer la durabilité de ces éoliennes flottantes, plus respectueuses de l'environnement, nous nous interrogeons donc sur la stabilité de ces dernières.
 
+[1] https://www.youtube.com/watch?v=J7k5KDiale4 
+Titre : Energie éolienne offshore. Comment une éolienne est-elle assemblée en mer?
 
 ## Problématique retenue
 
