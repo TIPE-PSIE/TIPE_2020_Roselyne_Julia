@@ -36,6 +36,11 @@ Afin d'assurer la durabilité de ces éoliennes flottantes, plus respectueuses d
 [1] https://www.youtube.com/watch?v=J7k5KDiale4 
 Titre : Energie éolienne offshore. Comment une éolienne est-elle assemblée en mer?
 
+[6] https://www.futura-sciences.com/planete/breves/energie-renouvelable-plus-grande-eolienne-flottante-monde-service-portugal-1735/
+Titre : La plus grande éolienne flottante du monde entre en service au Portugal
+Auteur : Céline Deluzarche
+
+
 ## Problématique retenue
 
  Quel système flotteur-ancrage, parmi ceux étudiés, est le plus adapté à résister aux multiples contraintes ?  
