@@ -52,7 +52,7 @@ Chacune d’entre elle a conçu un modèle qui leur est propre. Ils se distingue
 
 Malgré les données prometteuses des éoliennes flottantes au niveau énergétique (600 GW contre 250 GW pour les éoliennes posées en mer), des incertitudes subsistent. En effet, la durabilité et le rendement des éoliennes sont-ils garantis ? Quel impact y a-t-il sur la faune et la flore ? Les fortes vagues et le vent ne risquent-ils pas de trop déstabiliser les plateformes ? et pourquoi les flotteurs sont-ils si différents ?  
 
-C'est à propos de ces deux dernières questions que nous avons décidé d'axer notre étude. Dans la même optique, Adrien Coubois a realisé une thèse concernant l'influence du vent et de la houle sur les éoliennes [7]. Son étude porte plus spécifiquement sur l'éolienne Dutch Tri-floater dont il a construit une maquette afin d'effectuer des simulations. De cette idée de maquette, pour étudier la stabilité des éoliennes flottantes, nous avons décidé de fabriquer nos propres modèles réduits fidèles aux formes conçues par Ideol, Eolink et Principal Power. 
+C'est à propos de ces deux dernières questions que nous avons décidé d'axer notre étude. Dans la même optique, Adrien Coubois a realisé une thèse concernant l'influence du vent et de la houle sur les éoliennes [7]. Son étude porte plus spécifiquement sur l'éolienne Dutch Tri-floater dont il a construit une maquette afin d'effectuer des simulations. Pour étudier la stabilité des éoliennes flottantes, nous avons donc décidé de fabriquer nos propres modèles réduits fidèles aux formes conçues par Ideol, Eolink et Principal Power. 
 
 ## Problématique retenue
 
