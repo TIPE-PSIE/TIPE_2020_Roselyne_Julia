@@ -25,25 +25,6 @@ Keywords : Floating wind turbine, Float, Stability, Anchor, Experiment.
 
 ### Bibliographie commentée
 
-Depuis les années 2010, les éoliennes flottantes ont commencé à être envisagées au vu de leurs multiples avantages. Des sociétés telles que Floatgen [1], Eolink [2] et Principal Power [3] ont développé leurs propres modèles, qui diffèrent de par leur taille et leur système de flotteur et d'ancrage.
-
-De plus, des thèses en lien avec le sujet ont été réalisées. La thèse d'Adrien Courbois [4] rend compte de l'influence du vent et de la houle sur les éoliennes. Son étude porte plus spécifiquement sur l'éolienne Dutch Tri-floater sur laquelle les informations étaient les plus complètes. Il a donc réalisé une maquette afin d'effectuer des simulations sur cette problématique et en a conclu que les turbulences sont faibles. Johannes George [5], quant à lui, a étudié le design des éoliennes flottantes en fonction de la taille de leur turbine. En comparant deux éoliennes semi-submersibles, il a montré que les turbines de 10 MW à plateformes larges étaient plus sujettes aux résonances lors de conditions extrêmes.
-
-Malgré les données prometteuses des éoliennes flottantes au niveau énergétique (600 GW contre 250 GW pour les éoliennes posées en mer), leur fiabilité est encore incertaine. En effet, les fortes vagues ne risquent-elles pas d'user plus rapidement les matériaux ? de déstabiliser les plateformes ? ou encore de fragiliser la tête du mât ? 
-
-Afin d'assurer la durabilité de ces éoliennes flottantes, plus respectueuses de l'environnement, nous nous interrogeons donc sur la stabilité de ces dernières.
-
-[1] https://www.youtube.com/watch?v=J7k5KDiale4 
-Titre : Energie éolienne offshore. Comment une éolienne est-elle assemblée en mer?
-
-[6] https://www.futura-sciences.com/planete/breves/energie-renouvelable-plus-grande-eolienne-flottante-monde-service-portugal-1735/
-Titre : La plus grande éolienne flottante du monde entre en service au Portugal
-Auteur : Céline Deluzarche
-
-
-
-
-
 L’océan est un milieu regorgeant de ressources en matière d’énergies renouvelables jusqu’alors peu exploitées. C’est pourquoi, depuis les années 2010, les éoliennes flottantes ont commencé à être envisagées au vu de leurs multiples avantages. En effet, ce type d’éolienne est simplement tracté par un bateau jusqu’à son emplacement aux larges des côtes, réduisant ainsi les nuisances sonores et visuelles. Par ailleurs, l’impact écologique est considérablement réduit comparé aux éoliennes marines fixées au sol et nécessitant une plateforme d’installation spécifiques comme le montre la vidéo explicative du groupe Siemens [1] . 
 
 Ainsi, de plus en plus de projets d’éoliennes flottantes ont fait leur apparition à travers le globe. L’étude de Guillaume Bracq [2] met en évidence la diversité des modèles de flotteurs proposés par différentes sociétés. Il expose notamment les différences entre les flotteurs semi-submersibles, à lignes tendues et de type « SPAR ». Les éoliennes semi-submersibles étant les plus étudiées et développées, c’est sur celles-ci que portera notre étude. En particulier, elle traitera des modèles de trois entreprises : Ideol [3], Eolink [4] et Principal Power [5]. 
