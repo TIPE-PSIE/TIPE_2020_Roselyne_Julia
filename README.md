@@ -52,7 +52,7 @@ Chacune d’entre elle a conçu un modèle qui leur est propre. Ils se distingue
 
 Malgré les données prometteuses des éoliennes flottantes au niveau énergétique (600 GW contre 250 GW pour les éoliennes posées en mer), des incertitudes subsistent. En effet, la durabilité et le rendement des éoliennes sont-ils garantis ? Quel impact y a-t-il sur la faune et la flore ? Les fortes vagues et le vent ne risquent-ils pas de trop déstabiliser les plateformes ? et pourquoi les flotteurs sont-ils si différents ?  
 
-C'est sur ces deux dernières questions que nous avons décidé de porter notre étude. 
+C'est à propos de ces deux dernières questions que nous avons décidé d'axer notre étude. Dans la même optique, Adrien Coubois a realisé une thèse concernant l'influence du vent 
 
 ## Problématique retenue
 
