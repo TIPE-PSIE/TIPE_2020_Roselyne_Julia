@@ -38,7 +38,7 @@ C'est à propos de ces deux dernières questions que nous avons décidé d’axe
 
 ## Problématique retenue
 
- Quel système flotteur-ancrage, parmi ceux étudiés, est le plus adapté à résister aux multiples contraintes ?  
+Afin d’assurer la durabilité des éoliennes offshores flottantes, plus respectueuses de l’environnement et plus performantes, nous nous interrogeons donc sur la stabilité de ces dernières. Nous étudierons plus particulièrement les paramètres d’influences que sont le vent, les vagues ainsi que la forme des flotteurs et des mats.
 
 
 ## Objectifs du TIPE
