@@ -6,21 +6,28 @@
 
 En pleine transition énergétique, l'éolienne marine est une solution écologique pérenne. En effet, celles-ci sont en pleine expansion depuis ces dernières années puisqu'elles présentent divers avantages. Elles sont implantées au large des côtes, bien plus loin que les éoliennes fixées au sol marin, ce qui réduit la gêne visuelle. De plus, leur ancrage est bien plus simple, rapide et moins coûteux tant sur le plan énergétique qu'économique. 
 
+A faire chacune
+
 
 ### Justification de l'ancrage dans le thème
 
 Ces éoliennes sont uniquement implantées sur les mers et océans.
+
+A faire chacune
 
 
 ## MCOT: Mise en Cohérence des Objectifs du TIPE
 
 ### Positionnement thématique et mots-clés
 
-Positionnement : SI (Génie mécanique et Génie energétique), Physique (Mécanique)
+Positionnement : SI (Génie mécanique), Physique (Mécanique)
 
-Mots-clés : Eolienne flottante, Flotteur, Stabilité, Ancrage, Expérience à échelle réduite, hydrostatique, cinématique, mécanique des fluides. 
+## Mots clés :
 
-Keywords : Floating wind turbine, Float, Stability, Anchor, Experiment.  
+Éolienne flottante – Stabilité – Étude statique - Modèles réduits (ou simulation, ou expérience à échelle réduite) – Traitement des données. 
+
+Floating wind turbines – Stability – Static case study – Scale models (or simulation, or experiment) – Data processing. 
+
 
 
 ### Bibliographie commentée
@@ -42,28 +49,40 @@ Afin d’assurer la durabilité des éoliennes offshores flottantes, plus respec
 
 
 ## Objectifs du TIPE
+### Pour Julia
+1.	Construire des modèles réduits simplifiés d’éoliennes flottantes pour réaliser des expériences comparatives.
 
-1. Etudier la stabilité théorique des différents flotteurs d'éoliennes.
-2. Vérifier les résultats par une étude expérimentale.
-3. Déterminer l'ancrage le plus propice au flotteur le plus stable.
-4. Réaliser une simulation.
+2.	Réaliser une étude statique, sans perturbations, des différents modèles afin de trouver la bonne répartition des masses dans le flotteur pour atteindre l’équilibre.
+
+3.	Traiter les données expérimentales avec le logiciel Python et comparer les mouvements des modèles d’éoliennes en fonction de la forme de leur flotteur. En déduire le modèle réduit le plus stable. 
+
+4.	Réaliser l’étude statique sur l’éolienne flottante en considérant son système d’ancrage et l’action du vent. 
+
+### Pour Roselyne
+1.	Analyser les différents types d’éoliennes choisis afin d’effectuer les calculs d’échelles et de trouver les matériaux appropriés.
+
+2.	Réaliser une étude statique, sans perturbations, des différents modèles afin de trouver la bonne répartition des masses dans le flotteur pour atteindre l’équilibre.
+
+3.	Réaliser les expériences sur les modèles réduits en changeant le paramétrage des actions extérieures : vent et vagues. Effectuer le pointage vidéo et analyser les résultats. 
+
+4.	Réaliser l’étude statique sur l’éolienne flottante en considérant son système d’ancrage et l’action du vent. 
 
 
 ## Liste des références bibliographiques
 
-[1]: Page internet de l'entreprise Floatgen sur l'éolienne Floatgen : https://floatgen.eu/fr
+1:	Siemens,	Energie éolienne offshore. Comment une éolienne est-elle assemblée en mer?,	https://www.youtube.com/watch?v=J7k5KDiale4
 
-[2]: Page internet de l'entreprise Eolink S.A.S sur l'éolienne EOLINK : http://www.eolink.fr
+2:	Guillaume Bracq,	L’éolien offshore flottant,	https://ifmmediterranee.files.wordpress.com/2016/11/leolien-offshore-flottant-par-guillaume-bracq.pdf   p9-16
 
-[3]: Page internet de l'entreprise Principal Power sur l'éolienne WindFloat : http://www.principlepowerinc.com/en/windfloat
+3:	Ideol,	Le projet Floatgen,	https://www.ideol-offshore.com/en
 
-[4]: Étude expérimentale du comportement dynamique d’une éolienne offshore flottante soumise à l’action conjuguée de la houle et du vent, Adrien Courbois, 2013 : https://tel.archives-ouvertes.fr/file/index/docid/840511/filename/these_AC_finale.pdf
+4:	Eolink,	L’éolienne Eolink,	http://www.eolink.fr
 
-[5]: WindFloat design for different turbine sizes, Johannes George, 2014 : https://fenix.tecnico.ulisboa.pt/downloadFile/563345090413232/Masterthesis_Johannes-George_FINAL.pdf
+5:	Principal power,	L’éolienne Windfloat,	http://www.principlepowerinc.com/en/windfloat
 
-[6]: "La plus grande éolienne flottante du monde entre en service au Portugal" de Céline Deluzarche
-https://www.futura-sciences.com/planete/breves/energie-renouvelable-plus-grande-eolienne-flottante-monde-service-portugal-1735/
+6:	Céline Deluzarche,	La plus grande éolienne flottante du monde entre en service au Portugal,	https://www.futura-sciences.com/planete/breves/energie-renouvelable-plus-grande-eolienne-flottante-monde-service-portugal-1735/
 
-[7]: L’eolien offshore flottant, Guillaume Bracq, 2015 : 
-https://ifmmediterranee.files.wordpress.com/2016/11/leolien-offshore-flottant-par-guillaume-bracq.pdf
+7:	Adrien Courbois,	Étude expérimentale du comportement dynamique d’une éolienne offshore flottante soumise à l’action conjuguée de la houle et du vent.,	https://tel.archives-ouvertes.fr/file/index/docid/840511/filename/these_AC_finale.pdf
+
+
 
