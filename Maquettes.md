@@ -1,10 +1,10 @@
 # Sans frites 
 
-Base floatgen : m= 267g
+Base floatgen : m1 = 267g
 
-Mat pour Floatgen et Windfloat : m=77g
+Mat pour Floatgen et Windfloat : m2 = 77g
 
-Pales : m=107g
+Pales : m3 = 107g
 
 Base Windfloat : m=225g
 
