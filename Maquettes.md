@@ -18,3 +18,13 @@ Base Windfloat : m= 241g
 
 Base et mât Eolink : m = 540g
 
+# Distances
+
+G1A = a = 1,15 cm 
+
+CB = 2b = e = 31cm
+
+CG3 = d = 2,5 cm
+
+BD = = 2c = 15 cm 
+
