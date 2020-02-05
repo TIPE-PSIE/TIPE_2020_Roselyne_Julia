@@ -23,10 +23,13 @@ https://www.overleaf.com/7281214553nqdgbkypjjkb
 
 ## Déroulé Opérationnel du TIPE (DOT)
 
-* Avril 2019 : Choix du sujet
-* Mai - Juin 2019 : Fabrication des modèles d'éoliennes
-* Septembre - Octobre 2019 : Réalisation des expériences, exploitation des résultats
-* Novembre 2019 : Interprétation des résultats et étude théorique
+* Début juillet 2019 : Choix du sujet et recherche des éoliennes flottantes existantes. 
+* Aout 2019 : Concpetion et fabrication des modèles d'éoliennes
+* Septembre 2019 : Finalisation des modèles, echec de la flotaison, ajout de frites et masses
+* Octobre 2019 : Réalisation des expériences,  programme informatique
+* Novembre 2019 : Exploitation des résultats,Interprétation des résultats
+* Decembre 2019 : Etude statique mais trop compliqué, prise de contact avec les différentes entreprises pour info à propos coeff de frottement.  
+* 
 
 ## Liens
 
